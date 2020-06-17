@@ -1,6 +1,6 @@
 # Loan Prediction Problem 
 
-Predict Loan Eligibility for Customers
+Loan Eligibility Prediction for Customers
 
 ## About the Dataset
 This dataset is taken from one of the practice problem on Analytics Vidhya. This dataset contains 614 rows and 13 columns. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others.
@@ -37,7 +37,7 @@ The goal of this project is to automate the loan eligibility process (real time)
 
 ## Evaluation Metric
 
-####Accuracy
+#### Accuracy
 
 ## Conclusion
 
