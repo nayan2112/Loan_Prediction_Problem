@@ -37,7 +37,7 @@ The goal of this project is to automate the loan eligibility process (real time)
 
 ## Evaluation Metric
 
-#### Accuracy
+Accuracy
 
 ## Conclusion
 
