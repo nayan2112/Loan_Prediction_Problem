@@ -6,7 +6,9 @@ Predict Loan Eligibility for Customers
 This dataset is taken from one of the practice problem on Analytics Vidhya. This dataset contains 614 rows and 13 columns. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others.
 ### Dataset Description
 *Loan_ID:- Unique Loan ID
+
 *Gender:-	Male/ Female
+
 *Married:-	Applicant married (Y/N)
 *Dependents:-	Number of dependents
 *Education:-	Applicant Education (Graduate/ Under Graduate)
